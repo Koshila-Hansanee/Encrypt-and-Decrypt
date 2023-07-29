@@ -26,3 +26,5 @@ Dependencies:
 The encryption utility is a simple program that does not require any external libraries or packages. It relies solely on the standard C libraries (stdio.h, stdlib.h, and stdbool.h) for basic input/output operations and memory management.
 
 The utility is designed for educational and demonstration purposes and may not provide strong encryption suitable for secure data protection. For robust encryption requirements, consider using established cryptographic libraries and algorithms.
+*Note*
+It is not necessary to enter two codes for encryption and decryption. I did it to get a proper understanding of my work
