@@ -7,7 +7,7 @@ The encryption utility is a standalone GNU utility developed in C programming la
 To use the encryption utility,I follow these steps:
 
 Compilation:
-Before running the utility, you need to compile the C code to create an executable. Use the GCC (GNU Compiler Collection) to compile the encryption_utility.c code. Open the Command Prompt (or Terminal on macOS/Linux), navigate to the directory containing the encryption_utility.c file, and run the following command:
+Before running the utility, you need to compile the C code to create an executable. Use the GCC (GNU Compiler Collection) to compile the dataencryption.c code. Open the Command Prompt (or Terminal on macOS/Linux), navigate to the directory containing the dataencryption.c file, and run the following command:
 
 To compile the "dataencryption.c" file, use the command "gcc -o dataencryption dataencryption.c".
 This will create an executable named encryption_utility in the same directory.
